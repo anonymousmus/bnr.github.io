@@ -28,7 +28,28 @@
         Your browser does not support the audio element.
     </audio>
     
+<hr> <!-- This line adds a horizontal rule -->
 
+    <h3>Original</h3>
+    <audio controls>
+        <source src="original_1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+        <h3>BnR</h3>
+    <audio controls>
+        <source src="mashup_1_1.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+
+    <h3>Mashability</h3>
+    <audio controls>
+        <source src="mashup_1_2.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+
+<hr> <!-- This line adds a horizontal rule -->
 
     <h3>Original</h3>
     <audio controls>
@@ -50,7 +71,7 @@
     </audio>
 
 
-
+<hr> <!-- This line adds a horizontal rule -->
     <h3>Original</h3>
     <audio controls>
         <source src="original_1.wav" type="audio/wav">
@@ -70,6 +91,8 @@
         Your browser does not support the audio element.
     </audio>
 
+
+<hr> <!-- This line adds a horizontal rule -->
     <h3>Original</h3>
     <audio controls>
         <source src="original_1.wav" type="audio/wav">
@@ -89,6 +112,8 @@
         Your browser does not support the audio element.
     </audio>
 
+
+<hr> <!-- This line adds a horizontal rule -->
     <h3>Original</h3>
     <audio controls>
         <source src="original_1.wav" type="audio/wav">
@@ -108,6 +133,8 @@
         Your browser does not support the audio element.
     </audio>
 
+
+<hr> <!-- This line adds a horizontal rule -->
     <h3>Original</h3>
     <audio controls>
         <source src="original_1.wav" type="audio/wav">
@@ -127,6 +154,8 @@
         Your browser does not support the audio element.
     </audio>
 
+
+<hr> <!-- This line adds a horizontal rule -->
     <h3>Original</h3>
     <audio controls>
         <source src="original_1.wav" type="audio/wav">
@@ -146,6 +175,8 @@
         Your browser does not support the audio element.
     </audio>
 
+
+<hr> <!-- This line adds a horizontal rule -->
     <h3>Original</h3>
     <audio controls>
         <source src="original_1.wav" type="audio/wav">
@@ -165,25 +196,8 @@
         Your browser does not support the audio element.
     </audio>
 
-    <h3>Original</h3>
-    <audio controls>
-        <source src="original_1.wav" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
 
-        <h3>BnR</h3>
-    <audio controls>
-        <source src="mashup_1_1.wav" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
-
-
-    <h3>Mashability</h3>
-    <audio controls>
-        <source src="mashup_1_2.wav" type="audio/wav">
-        Your browser does not support the audio element.
-    </audio>
-
+<hr> <!-- This line adds a horizontal rule -->
     <h3>Original</h3>
     <audio controls>
         <source src="original_1.wav" type="audio/wav">
